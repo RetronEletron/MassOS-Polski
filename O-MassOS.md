@@ -1,5 +1,5 @@
 # O MassOS
-MassOS to darmowy (jak w [wolność](https://www.gnu.org/philosophy/free-sw.html)) system operacyjny GNU/Linux dla laptopów i komputerów stacjonarnych, który został zaprojektowany tak, aby był minimalny i lekki, bez kompromisów na funkcje.
+MassOS to darmowy (jak w [wolności](https://www.gnu.org/philosophy/free-sw.html)) system operacyjny GNU/Linux dla laptopów i komputerów stacjonarnych, który został zaprojektowany tak, aby był minimalny i lekki, bez kompromisów na funkcje.
 
 ![](screenshot-massos-desktop.png)
 
